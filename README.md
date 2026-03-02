@@ -84,4 +84,5 @@ Verified detection in Wazuh Dashboard and analyzed logs from multiple layers.
 
 This project demonstrates a complete SOC workflow:
 
+
 Detection → Analysis → Response
